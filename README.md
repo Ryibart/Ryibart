@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hello Earthling
-
-Welcome to my Github, where I document my journey through learning coding at Hive Helsinki.  
-I have zero experience beforehand and a long road ahead that I'm keen to traverse.  
-All feedback and improvement suggestions are more than welcomed! 
+# Hey you!
+### You're finally awake   
+Welcome to my Github, where I document my journey through learning coding at Hive Helsinki.   
+I have zero experience beforehand and a long road ahead that I'm keen to traverse.   
+All feedback and improvement suggestions are more than welcomed!   
 
 ---
 
-## *Growth comes from chaos, not order*   
-
-
+### *Growth comes from chaos, not order* <br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1a2NkNGVuYjIya3Azb2FjdmE5NW5mcDdvOGk1dzR4MnF3OHJ6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="500"/>
 
 <br>
@@ -21,7 +19,7 @@ All feedback and improvement suggestions are more than welcomed!
 
 <br>
 
----
+--- 
 
 <br>
 
@@ -33,6 +31,8 @@ All feedback and improvement suggestions are more than welcomed!
 📫 Contact me here: [![Linkedin Badge](https://img.shields.io/badge/-Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-tammi/)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I have the gif as a tattoo on my arm to constantly remind me of the chaos we live in  
+
+<br>
 
 ---
 
