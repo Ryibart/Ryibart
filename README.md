@@ -2,7 +2,7 @@
 
 # Hey you!
 ### You're finally awake   
-Welcome to my Github, where I document my journey through learning coding at Hive Helsinki.   
+Welcome to my Github, where I document my journey through learning coding.   
 I have zero experience beforehand and a long road ahead that I'm keen to traverse.   
 All feedback and improvement suggestions are more than welcomed!   
 
@@ -23,8 +23,8 @@ All feedback and improvement suggestions are more than welcomed!
 
 <br>
 
-📍 I’m currently a student at Hive Helsinki, part of 42 pedagogy  
-🌱 I’m learning about coding, particularly C  
+📍 I’m currently a student at Helsinki Business College 
+🌱 I’m learning about coding, particularly C, HTML, CSS and JS
 🍷 I used to work in the restaurant business  
 🔮 In the future, I aim to be either in food tech or the gaming industry   
 📣 Send me honest feedback and improvement suggestions!  
