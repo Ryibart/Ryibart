@@ -23,8 +23,8 @@ All feedback and improvement suggestions are more than welcomed!
 
 <br>
 
-📍 I’m currently a student at Helsinki Business College 
-🌱 I’m learning about coding, particularly C, HTML, CSS and JS
+📍 I’m currently a student at Helsinki Business College  
+🌱 I’m learning about coding, particularly C, HTML, CSS and JS  
 🍷 I used to work in the restaurant business  
 🔮 In the future, I aim to be either in food tech or the gaming industry   
 📣 Send me honest feedback and improvement suggestions!  
